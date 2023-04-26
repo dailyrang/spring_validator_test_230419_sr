@@ -7,6 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-	${ }님 로그인 성공하셨습니다!!!
+	${student.id}님 학생 로그인 성공하셨습니다!!!
 </body>
 </html>
